@@ -1,2 +1,2 @@
 # hello-world
-zihub自学编程记录仪
+zhub自学编程记录仪
